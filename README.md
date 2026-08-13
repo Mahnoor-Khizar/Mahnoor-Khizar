@@ -1,10 +1,9 @@
-````markdown
-<!--
+
   ╭──────────────────────────────────────────────────────────────╮
   │                 MAHNOOR KHIZAR • GITHUB README              │
   │             Soft Pink • Elegant Dark • Creative             │
   ╰──────────────────────────────────────────────────────────────╯
--->
+
 
 <div align="center">
 
@@ -288,7 +287,7 @@ to eventually **building the company behind them.**
 
 <div align="center">
 
-```text
+
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
 │   ◦ Learning                                         │
@@ -304,7 +303,7 @@ to eventually **building the company behind them.**
 │     Becoming a founder & future software-house CEO  │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-````
+
 
 </div>
 
@@ -341,4 +340,4 @@ I'm always interested in learning, creating and connecting with people who love 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:E98AAE,50:3D172F,100:120B16&section=footer" width="100%"/>
 
 </div>
-```
+
