@@ -212,24 +212,65 @@ One day leading my own software house or technology company.
 
 ---
 
-# 📊 GitHub at a Glance
+# ⚡ Quick Facts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-Khizar&show_icons=true&hide_border=true&bg_color=120B16&title_color=E98AAE&icon_color=E98AAE&text_color=E8DDE3&ring_color=E98AAE" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-Khizar&layout=compact&hide_border=true&bg_color=120B16&title_color=E98AAE&text_color=E8DDE3" height="170"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:120B16,100:3D172F&height=3&width=1000" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mahnoor-Khizar&hide_border=true&background=120B16&ring=E98AAE&fire=E98AAE&currStreakLabel=E98AAE&sideLabels=E8DDE3&currStreakNum=E8DDE3&sideNums=E8DDE3&dates=E8DDE3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=E98AAE&center=true&vCenter=true&width=650&lines=3%2B+web+projects+shipped;HTML+%2B+CSS+%2B+JavaScript+enthusiast;Currently+leveling+up+in+React+and+TypeScript;Building+toward+full-stack+mastery;Future+founder+in+the+making+%F0%9F%9A%80" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahnoor-Khizar&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎯
+**Focus**
+
+Full-stack web development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+**Learning**
+
+React, TypeScript, backend architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+**Toolkit**
+
+HTML, CSS, JS, Node.js, Express, MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+**2026 Goal**
+
+Ship a full-stack production app
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D172F,100:E98AAE&height=3&width=1000" />
 
 </div>
-
----
 
 # ✦ My Contribution Quest
 
